@@ -1,7 +1,7 @@
 <div align="center">  🚀 WELCOME TO MY GITHUB PROFILE
 
 <img src="https://pmd-img2url.koyeb.app/v/ca8f66eb50bf95092d7885d028b02868.jpg"
-width="220"
+width="700"
 style="border-radius:50%;border:4px solid #00BFFF;" />
 
 <br><br>
@@ -23,6 +23,8 @@ Profession : Graphic Designer
 
 Passion    : Creative Design & Digital Content
 
+🛑 Available Services :-
+
 🎨 Graphic Designer
 
 🎬 Video Editor
@@ -39,9 +41,11 @@ Passion    : Creative Design & Digital Content
 🎬 MOVIE CENTER LK © 🇱🇰
 
 🔗 WhatsApp Community 01
+
 https://chat.whatsapp.com/DNUMELfT0AYG5LMcCtUzXB
 
 🔗 WhatsApp Community 02
+
 https://chat.whatsapp.com/FaLZT235twbJlPZxzlgYH9
 
 
@@ -50,6 +54,7 @@ https://chat.whatsapp.com/FaLZT235twbJlPZxzlgYH9
 🎧 MUSIC ZONE LK © 🇱🇰
 
 🔗 WhatsApp Community
+
 https://chat.whatsapp.com/Jv1Im1MdsAUK9S2ZQ6IK6I
 
 
@@ -58,7 +63,7 @@ https://chat.whatsapp.com/Jv1Im1MdsAUK9S2ZQ6IK6I
 🛠 Skills & Tools
 
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=chatgpt,gemini,pixellab,photoshop,lightroom,picsart,capcut" />
+<img src="https://skillicons.dev/icons?i=html,github,photoshop" />
 
   </div>  
 ---
@@ -103,6 +108,6 @@ https://chat.whatsapp.com/Jv1Im1MdsAUK9S2ZQ6IK6I
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>  ⭐ Thanks For Visiting My Profile ⭐
 
-Powered By Sanju Bro © 🇱🇰
+<div align= "center"> 📂 Powered By Sanju Bro © 🇱🇰
 
 </div>
